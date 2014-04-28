@@ -1,4 +1,3 @@
-FINAL
-=====
+== LIGADO COM SUCESSO ==
 
-fins
+\r\n~~~ PARA FECHAR O EMULADOR APERTE A TECLA (ESC) ~~~\r\n
